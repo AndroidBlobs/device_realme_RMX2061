@@ -1,0 +1,4 @@
+require version-baseband=4.4.c1-00011-RENNELL_GEN_PACK-2.314818.1
+require version-modem=2021-03-0318:40:44
+require version-trustzone=TZ.XF.5.0.3.C6-324292
+require version-vendor=1614765444
